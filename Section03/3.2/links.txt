@@ -1,0 +1,1 @@
+More on GCS: https://cloud.google.com/storage/docs/concepts

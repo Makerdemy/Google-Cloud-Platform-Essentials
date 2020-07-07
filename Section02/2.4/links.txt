@@ -1,0 +1,3 @@
+
+
+Best Practices when working with GCP Containers: https://cloud.google.com/blog/products/gcp/7-best-practices-operating-containers

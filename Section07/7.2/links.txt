@@ -1,0 +1,3 @@
+https://cloud.google.com/deployment-manager/docs/configuration/templates/create-basic-template
+
+https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/examples/v2

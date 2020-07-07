@@ -1,0 +1,3 @@
+Regions & Zone: https://cloud.google.com/compute/docs/regions-zones
+
+Cloud Platform Comparison: https://www.computerworld.com/article/3429365/aws-vs-azure-vs-google-whats-the-best-cloud-platform-for-enterprise.html

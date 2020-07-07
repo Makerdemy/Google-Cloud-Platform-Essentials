@@ -1,0 +1,3 @@
+Regions & Zone: https://cloud.google.com/compute/docs/regions-zones
+
+Machine Images: https://cloud.google.com/blog/products/compute/compute-engine-gets-machine-images

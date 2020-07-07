@@ -1,0 +1,15 @@
+Data Replication in Persistent Disk
+
+https://cloud.google.com/compute/docs/disks/high-availability-regional-persistent-disk
+
+Scheduled Snapshots using Persistent Disk
+
+https://cloud.google.com/blog/products/compute/introducing-scheduled-snapshots-for-compute-engine-persistent-disk
+
+Data Encryption Options in GCP
+
+https://cloud.google.com/storage/docs/encryption
+
+Mount disks and work with it on Linux
+
+https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/

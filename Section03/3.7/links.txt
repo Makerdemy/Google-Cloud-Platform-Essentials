@@ -1,0 +1,7 @@
+Important MySQL Commands
+
+http://www.zbeanztech.com/blog/important-mysql-commands
+
+How to SQL Query?
+
+https://blog.hubspot.com/marketing/sql-tutorial-introduction

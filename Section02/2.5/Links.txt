@@ -1,0 +1,2 @@
+Configuring Clusters in GCP using Kubectl: https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-access-for-kubectl
+

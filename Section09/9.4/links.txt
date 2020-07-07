@@ -1,0 +1,1 @@
+Cloud Security Scanner: https://cloud.google.com/security-command-center/docs/concepts-security-command-center-overview?hl=BG

@@ -1,0 +1,2 @@
+https://kemptechnologies.com/load-balancer/load-balancing-algorithms-techniques/
+https://cloud.google.com/compute/network-pricing#lb

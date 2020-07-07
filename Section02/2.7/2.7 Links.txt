@@ -1,0 +1,5 @@
+https://cloud.google.com/deployment-manager/docs
+
+https://cloud.google.com/deployment-manager/docs/configuration/create-basic-configuration
+
+https://github.com/GoogleCloudPlatform/nodejs-docs-samples/blob/master/appengine/README.md

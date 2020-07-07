@@ -1,0 +1,3 @@
+https://cloud.google.com/iot/docs/concepts/overview
+https://cloud.google.com/iot/docs/concepts/protocols
+https://www.udemy.com/course/introduction-to-google-cloud-iot/

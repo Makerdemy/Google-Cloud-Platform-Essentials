@@ -1,0 +1,7 @@
+Bigtable Replication Configurations
+
+https://cloud.google.com/bigtable/docs/replication-settings
+
+The Bigtable Project
+
+https://codelabs.developers.google.com/codelabs/cloud-bigtable-intro-java/index.html?index=..%2F..index#0

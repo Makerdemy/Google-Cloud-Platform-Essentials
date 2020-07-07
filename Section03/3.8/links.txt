@@ -1,0 +1,11 @@
+How does Bigtable work?
+
+https://www.cs.rutgers.edu/~pxk/417/notes/content/bigtable.html
+
+What are NoSQL Databases?
+
+https://www.couchbase.com/resources/why-nosql
+
+The Bigtable Storage Model
+
+https://cloud.google.com/bigtable/docs/overview#storage-model

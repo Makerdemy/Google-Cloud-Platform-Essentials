@@ -1,0 +1,36 @@
+doctype html
+html(lang="en")
+  head
+    title Technical Support
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    link(rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto")
+    link(rel="stylesheet" href="//fonts.googleapis.com/css?family=Gentium+Book+Basic:700")
+    link(rel="stylesheet" href="/style.css")
+  body
+
+    header
+      nav
+        a(href="/") Technical Support Center
+        if user
+          a(href="/mine") My Tickets
+      section#account
+        if user
+          // img(src=user.imageUrl)
+          // span Logged in as #{user.name}
+          // a(href="/logout") Sign out
+        else
+          //a(href="/login") Sign in
+          
+    fieldset#add-book
+      legend Raise Complaint
+      form(method="post" action="/books" enctype="multipart/form-data")
+        label
+          | Employee ID
+          input(name="title" type="text" placeholder="eg. E1456")
+        label
+          | Laptop Model
+          input(name="title" type="text" placeholder="eg. DELL 15E")
+        label
+          | Type of Issue
+          input(name="author" type="text" placeholder="eg. HW or SW")
+        input(type="submit" value="Submit Complaint")

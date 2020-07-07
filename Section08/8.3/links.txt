@@ -1,0 +1,2 @@
+Cloud Migration -12 Step Plan: https://www.youtube.com/watch?v=RhIH4AUdLCE&t=14s
+https://cloud.google.com/solutions/migration-to-gcp-getting-started

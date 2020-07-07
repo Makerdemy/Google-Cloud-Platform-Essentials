@@ -1,0 +1,2 @@
+More about Cloud CDN: https://cloud.google.com/cdn/docs/concepts
+What is CDN: https://www.youtube.com/watch?v=yWnG2Yv1xXA&t
